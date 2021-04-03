@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## image of Dice Game  ==> 
-<img src="screenshot/diceSS.jpeg" height="600" width="290"></img>
+<img src="./diceSS.jpeg" height="600" width="290"></img>
