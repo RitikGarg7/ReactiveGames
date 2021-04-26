@@ -29,8 +29,7 @@
 <br>
 <img src="./Jokes/ss.png" height="760" width="1100"></img>
 
-# Hangman Application
-<br>
+# Hangman Application  
 <img src="./Hangman/ss1.jpeg" height="600" width="290"></img>
 <img src="./Hangman/ss2.jpeg" height="600" width="290"></img>
 <img src="./Hangman/ss3.jpeg" height="600" width="290"></img>
