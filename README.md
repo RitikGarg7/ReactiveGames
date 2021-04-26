@@ -1,5 +1,5 @@
 # ReactiveGames  
 
-##Images of Todo App=
+# Coins Head/Tail Game 
 <br>
-<img src="./ssTodo.png" height="600" width="290"></img>
+<img src="./CoinGame/coinSS.jpeg" height="600" width="290"></img>
