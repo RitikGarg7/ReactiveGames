@@ -22,7 +22,7 @@
 
 # Todo Application
 <br>
-<img src="./Todo/ssTodo.png" height="600" width="320"></img>
+<img src="./Todo/ssTodo.png" height="600" width="350"></img>
 
 # Jokes Application
 <br>
