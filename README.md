@@ -16,8 +16,7 @@
 <br>
 <img src="./Pokemon/pokemonSS.jpeg" height="600" width="290"></img>
 
-# Dog Application 
-<br>
+# Dog Application  
 <img src="./router-dog/mvSS1.png" height="600" width="290"></img>
 <img src="./router-dog/mvSS2.png" height="600" width="290"></img>
 
